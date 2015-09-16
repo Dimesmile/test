@@ -1,4 +1,4 @@
-/*.ui-accordion-content{
+.ui-accordion-content{
 	height: 200px;
 	background-color: #ccc;
 }
@@ -15,7 +15,7 @@
 .ui-accordion-header-active{
 	background-color: pink;
 	color: orange;
-}*/
+}
 /*body{
 	width: 100%;
 	text-align: center;
