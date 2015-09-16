@@ -1,0 +1,92 @@
+/*.ui-accordion-content{
+	height: 200px;
+	background-color: #ccc;
+}
+.ui-accordion-header{
+	border: 1px solid orange;
+	padding: 10px;
+	
+	
+}
+.ui-accordion-header a{
+	text-decoration: none;
+	
+}
+.ui-accordion-header-active{
+	background-color: pink;
+	color: orange;
+}*/
+/*body{
+	width: 100%;
+	text-align: center;
+	margin: 0;
+}
+html, body{
+	height: 100%;
+}
+p{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100px;
+	height: 100px;
+	margin: 0;
+	transition: all ease-out 1s;
+}
+.border{
+	border: 3px solid red;
+}
+.spin{
+	animation: spin 1s ease;
+}
+.spinback{
+	animation: spinback 1s ease;
+}
+@keyframes spin{
+  from{
+    transform: rotate(0deg);
+  }
+  to{
+    transform: rotate(360deg);
+  }
+}
+@keyframes spinback{
+  from{
+    transform: rotate(360deg);
+  }
+  to{
+    transform: rotate(0deg);
+  }
+}*/
+
+/*#p{
+	margin: 10px auto;
+	font-size: 18px;
+}
+input{
+	display: inline-block;
+}
+.red{
+	color: red;
+}
+.border{
+	display: block;
+	border: 1px solid black;
+}
+.font{
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+div{
+	margin: 20px;
+}
+p{
+	padding: 30px;
+	width: 300px;
+	height: 300px;
+	text-align: justify;
+	overflow: hidden;
+	
+	
+}*/
